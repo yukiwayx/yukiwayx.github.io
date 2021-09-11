@@ -33,7 +33,7 @@ Welcome to my blog!
 
 I'm Yuxuan Cai (蔡雨萱). I am currently an undergraduate student of Biomedical Engineering at the Huazhong University of Science and Technology in Wuhan, China. 
 
-## Hobits
+## Hobbies
 
 - Piano
 - Musical
